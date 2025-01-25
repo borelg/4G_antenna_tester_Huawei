@@ -75,6 +75,8 @@ The GUI consists of:
 - **Signal Metrics Info**: A textual display of the current signal metrics.
 - **Plots**: Dynamic plots for RSRP, RSRQ, RSSI, and SINR.
 
+[GUI](GUI.png)
+
 ## Limitations
 
 - The program assumes the router uses the default username `admin`.
